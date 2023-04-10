@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Sections",
+    "pattern": "Human Resources"
+  },
+  {
+    "name": "Sections",
+    "pattern": "IT"
+  },
+  {
+    "name": "Sections",
+    "pattern": "Section1"
+  },
+  {
+    "name": "Sections",
+    "pattern": "Section2"
+  }
+]

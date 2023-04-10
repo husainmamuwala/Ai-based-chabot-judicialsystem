@@ -1,0 +1,20 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-Sections",
+      "2": "I-Sections",
+      "3": "L-Sections",
+      "4": "U-Sections",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-Sections": 1,
+      "I-Sections": 2,
+      "L-Sections": 3,
+      "U-Sections": 4,
+      "O": 0
+    },
+    "num_tags": 5
+  }
+]
